@@ -41,6 +41,7 @@ output: index.html
 
 * Regular fixity checking: some issues
 * Investigating triplestore performance improvements
+* Build out Archelon, our admin tool
 * Looking at Fedora 5 with Karaf/Camel Toolbox
 
 --
@@ -50,5 +51,6 @@ output: index.html
 * <https://github.com/umd-lib/mirador-static> – IIIF Viewer
 * <https://github.com/umd-lib/plastron> – Batch Loader
 * <https://github.com/umd-lib/pcdm-manifests> – IIIF Manifests (Presentation API)
+* <https://github.com/umd-lib/archelon> – Admin Tool
 
 
