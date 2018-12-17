@@ -18,9 +18,11 @@ output: index.html
 * Fully catalogued and digitized
 
 --
+
 ## Katherine Anne Porter Correspondence: Advantages
 * Able to reuse much of the past Fedora work
 * Mirador viewer, Plastron batch loader, IIIf manifest application and image server
+
 --
 
 ## Katherine Anne Porter Correspondence: Challenges
