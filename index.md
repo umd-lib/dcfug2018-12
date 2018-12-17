@@ -9,9 +9,12 @@ output: index.html
 
 # UMD Libraries Update
 
+## 2018
+
 --
 
-## Katherine Anne Porter Correspondence: Overview
+### Katherine Anne Porter Correspondence: Overview
+
 * https://www.lib.umd.edu/kaporter-correspondence
 * 3,856 Letters between the author and family members
 * Typescript and hand written
@@ -19,13 +22,15 @@ output: index.html
 
 --
 
-## Katherine Anne Porter Correspondence: Advantages
+### Katherine Anne Porter Correspondence: Advantages
+
 * Able to reuse much of the past Fedora work
 * Mirador viewer, Plastron batch loader, IIIf manifest application and image server
 
 --
 
-## Katherine Anne Porter Correspondence: Challenges
+### Katherine Anne Porter Correspondence: Challenges
+
 * Digitization proceeded over many years in several phases
 * Some content previously scanned as folders (needed to be recataloged and separated)
 * Different transcription approaches (hOCR, plain text, TEI, Word docs)
