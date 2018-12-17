@@ -40,7 +40,7 @@ output: index.html
 ### Fedora Integration
 
 * Regular fixity checking: some issues
-* Investigating triplestore performance imporvements
+* Investigating triplestore performance improvements
 * Looking at Fedora 5 with Karaf/Camel Toolbox
 
 --
