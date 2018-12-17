@@ -25,7 +25,7 @@ output: index.html
 ### Katherine Anne Porter Correspondence: Advantages
 
 * Able to reuse much of the past Fedora work
-* Mirador viewer, Plastron batch loader, IIIf manifest application and image server
+* Mirador viewer, Plastron batch loader, IIIF manifest application and image server
 
 --
 
@@ -34,3 +34,13 @@ output: index.html
 * Digitization proceeded over many years in several phases
 * Some content previously scanned as folders (needed to be recataloged and separated)
 * Different transcription approaches (hOCR, plain text, TEI, Word docs)
+
+--
+
+### Code Repositories
+
+* <https://github.com/umd-lib/mirador-static> – IIIF Viewer
+* <https://github.com/umd-lib/plastron> – Batch Loader
+* <https://github.com/umd-lib/pcdm-manifests> – IIIF Manifests (Presentation API)
+
+
