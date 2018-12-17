@@ -43,6 +43,8 @@ output: index.html
 * Investigating triplestore performance imporvements
 * Looking at Fedora 5 with Karaf/Camel Toolbox
 
+--
+
 ### Code Repositories
 
 * <https://github.com/umd-lib/mirador-static> – IIIF Viewer
